@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Manognya Dasika`. I am more passionated about UI / UX Designing and also in science Technology. I believe in Leraning, Exploring and Growing 💯💯.  
 - � I’m interested in UI/UX, html, css and javascript.
-- 🌱 I’m currently in btech 1st year.
+- 🌱 I’m Sophomore.
 - I’m looking to collaborate on `html`, `css` and `python` projects.
 - pronouns : she/her
 - I'm looking for help in Dart and Flutter 👀.
