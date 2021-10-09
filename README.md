@@ -10,30 +10,7 @@ ________________________________________________________________________________
 * 🌺 my [Instagram]( https://www.instagram.com/manognya_26/)
 ________________________________________________________________________________________
 <p align="center">
-<table>
-  <tr>
-    <th>language</th>
-    <th>ratings ✔️</th> 
-  </tr>
-  <tr>
-    <td>c++ 📔</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>python 🎛️</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>html 🖋️</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>css and javascript 🕹️</td>
-    <td>8</td>
-  </tr>
-  <tr>
-  
-</table>
+
  </p>
 <p align="center">
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
@@ -41,6 +18,15 @@ ________________________________________________________________________________
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-love-1f425f.svg"></a>
   </p>
+  
+  
+![GitHub Views](https://komarev.com/ghpvc/?username=manognyaa&color=FAC151)
+
+![manognyaa github stats](https://github-readme-stats.vercel.app/api?username=manognyaa&count_private=true&show_icons=true&theme=white&hide_rank=false)
+
+Languages that use -
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manognyaa)
   
 <!---
 manognyaa/manognyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
