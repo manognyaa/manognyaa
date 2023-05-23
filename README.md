@@ -7,7 +7,7 @@
 _______________________________________________________________________________________
 **〽️ _how to reach me 〽️?_** 
 * 🌺 my [LinkedIn]( https://www.linkedin.com/in/manognya-dasika-89396b1b7) 
-* 🌺 my [Instagram]( https://www.instagram.com/manognya_26/)
+
 ________________________________________________________________________________________
 <p align="center">
 
