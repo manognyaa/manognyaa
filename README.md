@@ -7,7 +7,7 @@
 _______________________________________________________________________________________
 **〽️ _how to reach me 〽️?_** 
 * 🌺 my [LinkedIn]( https://www.linkedin.com/in/manognya-dasika-89396b1b7) 
-* 🌺 my [Portfolio]([ https://www.linkedin.com/in/manognya-dasika-89396b1b7](https://thriving-liger-175c25.netlify.app/)) 
+* 🌺 my [Portfolio](https://www.linkedin.com/in/manognya-dasika-89396b1b7](https://thriving-liger-175c25.netlify.app/)
 ________________________________________________________________________________________
 <p align="center">
 
