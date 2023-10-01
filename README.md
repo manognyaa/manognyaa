@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Manognya Dasika`. I am more passionated about UI / UX Designing and also in science Technology. I believe in Learning, Exploring and Growing 💯💯.  
+- 👋 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.  
 - � I’m interested in UI/UX, html, css and javascript.
 - 🌱 I’m Junior.
 - I’m looking to collaborate on `html`, `css` and `python` projects.
