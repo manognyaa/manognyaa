@@ -25,9 +25,7 @@ ________________________________________________________________________________
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manognyaa&theme=dark" />
 </p>
 
-[![manognyaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=manognyaa&custom_title=This%20is%20my%20graph&hide_border=true)](https://github.com/manognyaa/github-readme-activity-graph)
 
-  
   
 ![GitHub Views](https://komarev.com/ghpvc/?username=manognyaa&color=FAC151)
 
