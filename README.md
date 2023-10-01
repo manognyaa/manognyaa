@@ -1,9 +1,5 @@
-- 👋 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.  
-- � I’m interested in UI/UX, html, css and javascript.
-- 🌱 I’m Junior.
-- I’m looking to collaborate on `html`, `css` and `python` projects.
+- 👋I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
 - pronouns : she/her
-- I'm looking for help in Dart and Flutter 👀.
 _______________________________________________________________________________________
 **〽️ _how to reach me 〽️?_** 
 * 🌺 my [LinkedIn]( https://www.linkedin.com/in/manognya-dasika-89396b1b7) 
