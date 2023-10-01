@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm [Manognya Dasika](https://github.com/manognyaa) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/></p>
-- 👋I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+- 👋I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better open-source, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
 - pronouns: she/her
 _______________________________________________________________________________________
 **〽️ _how to reach me 〽️?_** 
@@ -9,7 +9,6 @@ ________________________________________________________________________________
 <p align="center">
 
  </p>
- https://github.com/manognyaa
 <p align="center">
 <a href="https://github.com/manognyaa"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
 <a href="https://github.com/manognyaa"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Blue"></a> 
